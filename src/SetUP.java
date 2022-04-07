@@ -1,3 +1,7 @@
 public class SetUP {
-    //Settig up project for all everyone
+    //Setting up project for all everyone
+
+    // rasheed made some changes
+    // some changes
+
 }
